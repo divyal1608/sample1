@@ -2,7 +2,7 @@ Fill-in-the-blanks Quiz:
 
 1. GitHub is a web-based platform built for developers to collaborate on projects using ___git_____ version control system.
 
-2. Many of the world's most widely used open-________ projects are hosted on GitHub.
+2. Many of the world's most widely used open-_source_______ projects are hosted on GitHub.
 
 3. The ________ file is essential for understanding a software project, providing information about its purpose, functionality, usage instructions, and other details. This file acts as a roadmap, offering clarity on how to get started with the project.
 
