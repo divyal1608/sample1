@@ -1,6 +1,6 @@
 Fill-in-the-blanks Quiz:
 
-1. GitHub is a web-based platform built for developers to collaborate on projects using ________ version control system.
+1. GitHub is a web-based platform built for developers to collaborate on projects using ___git_____ version control system.
 
 2. Many of the world's most widely used open-________ projects are hosted on GitHub.
 
